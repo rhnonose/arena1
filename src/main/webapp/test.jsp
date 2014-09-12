@@ -1,7 +1,8 @@
-
+<%@ page language="java" contentType="text/html; charset=ISO-8859-1"
+    pageEncoding="ISO-8859-1"%>
 <!DOCTYPE html>
-<html lang="en">
-  <head>
+<html>
+<head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
@@ -56,8 +57,8 @@
         <div class="item active">
           <div class="container">
             <div class="carousel-caption">
-              <h1>Reserve seu horÃ¡rio</h1>
-              <p>Reserve um horÃ¡rio para bater uma bola com seus amigos! Providenciamos bola e coletes</p>
+              <h1>Reserve seu horário</h1>
+              <p>Reserve um horário para bater uma bola com seus amigos! Providenciamos bola e coletes</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Reservas</a></p>
             </div>
           </div>
@@ -66,8 +67,8 @@
           <div class="container">
             <div class="carousel-caption">
               <h1>Tome uma gelada</h1>
-              <p>VocÃª pode tomar aquela gelada depois do jogo e matar a fome com uma porÃ§Ã£o</p>
-              <p><a class="btn btn-lg btn-primary" href="#" role="button">Veja opÃ§Ãµes</a></p>
+              <p>Você pode tomar aquela gelada depois do jogo e matar a fome com uma porção</p>
+              <p><a class="btn btn-lg btn-primary" href="#" role="button">Veja opções</a></p>
             </div>
           </div>
         </div>
@@ -75,7 +76,7 @@
           <div class="container">
             <div class="carousel-caption">
               <h1>Gosta de churrasco?</h1>
-              <p>VocÃª pode tambÃ©m reservar uma Ã¡rea para fazer um churrasquinho com a galera depois do jogo</p>
+              <p>Você pode também reservar uma área para fazer um churrasquinho com a galera depois do jogo</p>
               <p><a class="btn btn-lg btn-primary" href="#" role="button">Reservas</a></p>
             </div>
           </div>
@@ -96,36 +97,36 @@
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Estacionamento</h2>
-          <p class="lead">Aqui, nÃ£o falta lugar no amplo estacionamento logo ao lado do campo.</p>
+          <p class="lead">Aqui, não falta lugar no amplo estacionamento logo ao lado do campo.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="imgage/dummy.png" title="Dummy" alt="Dummy">
+          <img class="featurette-image img-responsive" src="image/dummy.png" title="Dummy" alt="Dummy">
         </div>
       </div>
 
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="imgage/dummy.png" title="Dummy" alt="Dummy">
+          <img class="featurette-image img-responsive" src="image/dummy.png" title="Dummy" alt="Dummy">
         </div>
         <div class="col-md-7">
-          <h2 class="featurette-heading">InstalaÃ§Ãµes</h2>
-          <p class="lead">Temos instalaÃ§Ãµes para acomodar suas necessidades, como espaÃ§o para churrasco, banheiro com chuveiro e bar.</p>
+          <h2 class="featurette-heading">Instalações</h2>
+          <p class="lead">Temos instalações para acomodar suas necessidades, como espaço para churrasco, banheiro com chuveiro e bar.</p>
         </div>
       </div>
 
       <div class="row featurette">
         <div class="col-md-7">
           <h2 class="featurette-heading">Bar</h2>
-          <p class="lead">Contamos tambÃ©m com um bar carregado com cerveja gelada, aperitivos, porÃ§Ãµes feitas na hora e salgados fritos e assados.</p>
+          <p class="lead">Contamos também com um bar carregado com cerveja gelada, aperitivos, porções feitas na hora e salgados fritos e assados.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="imgage/dummy.png" title="Dummy" alt="Dummy">
+          <img class="featurette-image img-responsive" src="image/dummy.png" title="Dummy" alt="Dummy">
         </div>
       </div>
 
       <footer>
         <p class="pull-right"><a href="#">Back to top</a></p>
-        <p>Arena 1 ltda., Av. HorÃ¡cio Raccanello Filho &middot; <a class="email" href="mailto:rodrigo.nonose89@gmail.com">Webmaster</a> &middot; <a href="#">Termos</a></p>
+        <p>Arena 1 ltda., Av. Horácio Raccanello Filho &middot; <a class="email" href="mailto:rodrigo.nonose89@gmail.com">Webmaster</a> &middot; <a href="#">Termos</a></p>
       </footer>
 
     </div>
