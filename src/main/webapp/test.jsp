@@ -100,13 +100,13 @@
           <p class="lead">Aqui, não falta lugar no amplo estacionamento logo ao lado do campo.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="image/dummy.png" title="Dummy" alt="Dummy">
+          <img class="featurette-image img-responsive" src="images/dummy.png" title="Dummy" alt="Dummy">
         </div>
       </div>
 
       <div class="row featurette">
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="image/dummy.png" title="Dummy" alt="Dummy">
+          <img class="featurette-image img-responsive" src="images/dummy.png" title="Dummy" alt="Dummy">
         </div>
         <div class="col-md-7">
           <h2 class="featurette-heading">Instalações</h2>
@@ -120,7 +120,7 @@
           <p class="lead">Contamos também com um bar carregado com cerveja gelada, aperitivos, porções feitas na hora e salgados fritos e assados.</p>
         </div>
         <div class="col-md-5">
-          <img class="featurette-image img-responsive" src="image/dummy.png" title="Dummy" alt="Dummy">
+          <img class="featurette-image img-responsive" src="images/dummy.png" title="Dummy" alt="Dummy">
         </div>
       </div>
 
