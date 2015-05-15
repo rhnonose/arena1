@@ -1,3 +1,5 @@
-The OpenShift `jbossas` cartridge documentation can be found at:
+[![Build Status](https://travis-ci.org/rhnonose/arena1.svg?branch=master)](https://travis-ci.org/rhnonose/arena1)
 
-https://github.com/openshift/origin-server/tree/master/cartridges/openshift-origin-cartridge-jbossas/README.md
+Prototype:
+
+www.arena1.com.br
