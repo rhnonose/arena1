@@ -1,1 +1,2 @@
 language: java
+before_script: mvn groupId:artifactId:goal -P profile-1
